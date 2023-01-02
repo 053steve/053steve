@@ -37,6 +37,11 @@
 
 <br/>
 
+**🍺 Let's get connected:**  
+
+[![Linkedin Badge](https://img.shields.io/badge/-JirateepSuranant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jirateepsuranant/)](https://www.linkedin.com/in/jirateepsuranant) [![Twitter Badge](https://img.shields.io/badge/-@SteveSuranant-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/steve_suranant)](https://twitter.com/steve_suranant) 
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=053steve&layout=compact&theme=dark&hide_border=true&hide=MakeFile,CSS)
 
