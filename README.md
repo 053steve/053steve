@@ -10,7 +10,7 @@
 </p>
 
 <br/>
-<h4 align="center"><samp> I'm a Fullstack Developer and Tech Enthusiast. I also love Javascript and Typescript equally (but also open to move to a better languange 🥲). I'm currently exploring AI since it's like the future and stuff 💻🤖☁️ </samp>
+<h4 align="center"><samp> I'm a Fullstack Developer and Tech Enthusiast. I also love Javascript and Typescript equally (currently working with python though 😛). I'm currently exploring AI since it's like the future and stuff 💻🤖☁️ </samp>
 </h4>
 
 <br />
